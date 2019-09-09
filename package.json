@@ -1,0 +1,19 @@
+{
+  "name": "amazon-scraper",
+  "version": "1.0.0",
+  "description": "Command-line application using Node.js to scrape Amazon's books page, then store the data within a .json file",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "mocha main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rod-S/Amazon-Scraper.git"
+  },
+  "author": "Rod-S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rod-S/Amazon-Scraper/issues"
+  },
+  "homepage": "https://github.com/Rod-S/Amazon-Scraper#readme"
+}
